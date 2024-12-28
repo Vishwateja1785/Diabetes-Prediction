@@ -1,4 +1,4 @@
-# Diabetes Prediction Project
+# Diabetes Prediction
 
 This project focuses on predicting diabetes using machine learning algorithms. The dataset used contains various health-related features that are analyzed to determine the likelihood of diabetes in patients.
 
